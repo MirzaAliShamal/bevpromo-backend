@@ -1,0 +1,1 @@
+hola {{ $retailer->name }}

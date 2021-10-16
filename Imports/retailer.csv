@@ -1,0 +1,1105 @@
+`Retailer::create(['id' => '`~`1`~`', 'name' =>'`~~`', 'state' =>'`~~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`2`~`', 'name' =>'`~`Safeway`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`3`~`', 'name' =>'`~`Bevmo`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`4`~`', 'name' =>'`~`John Brooks Supermarket`~`', 'state' =>'`~`NM`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`5`~`', 'name' =>'`~`Supervalu Inc`~`', 'state' =>'`~`OH`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`6`~`', 'name' =>'`~`Quick Trip`~`', 'state' =>'`~`Multi`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`7`~`', 'name' =>'`~`Caputos New Farm`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`8`~`', 'name' =>'`~`Tonys Finer Foods`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`9`~`', 'name' =>'`~`Sullivans Foods`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`10`~`', 'name' =>'`~`Grove Gas Mart`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`11`~`', 'name' =>'`~`JK Cavalier Inc`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`12`~`', 'name' =>'`~`Kwik Stop`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`13`~`', 'name' =>'`~`Jerry Stewart Enterprises`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`14`~`', 'name' =>'`~`Wisted\'s Supermarket`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`15`~`', 'name' =>'`~`T & F Group Inc`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`16`~`', 'name' =>'`~`S&S Food & Beverage #2`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`17`~`', 'name' =>'`~`Gary\'s Beer & Liquor`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`19`~`', 'name' =>'`~`Sunshine Food Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`20`~`', 'name' =>'`~`Shop Smart Food Store`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`21`~`', 'name' =>'`~`Liquor Depot`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`22`~`', 'name' =>'`~`Fuzzy\'s Liquor`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`23`~`', 'name' =>'`~`Coffeys Country Store`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`24`~`', 'name' =>'`~`Mandys Mart`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`25`~`', 'name' =>'`~`Guane Gas Station`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`26`~`', 'name' =>'`~`Las Cuatro Hermanas Carniceria`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`27`~`', 'name' =>'`~`City Food Mart Inc.`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`28`~`', 'name' =>'`~`Monumental Enterprises, Inc.`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`29`~`', 'name' =>'`~`RS Discount Tobacco & Beer`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`30`~`', 'name' =>'`~`Flanagan\'s Stop & Shop`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`31`~`', 'name' =>'`~`Discount Grocery, Ent.`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`32`~`', 'name' =>'`~`Pats Liquor Leaf & Wine`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`33`~`', 'name' =>'`~`Alva Village Market`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`34`~`', 'name' =>'`~`Food of South Florida`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`35`~`', 'name' =>'`~`Noveed Food Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`36`~`', 'name' =>'`~`Westar Gas Station`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`37`~`', 'name' =>'`~`Valero Gas Station`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`38`~`', 'name' =>'`~`Universal Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`39`~`', 'name' =>'`~`Too Quick Food`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`40`~`', 'name' =>'`~`Exxon Gas Station`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`41`~`', 'name' =>'`~`Guadalupe Market`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`42`~`', 'name' =>'`~`AR Convenience Store`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`43`~`', 'name' =>'`~`Jake\'s Mobil`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`44`~`', 'name' =>'`~`Super Mart Inc.`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`45`~`', 'name' =>'`~`Mahi Food Mart`~`', 'state' =>'`~`SC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`46`~`', 'name' =>'`~`Foodland Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`47`~`', 'name' =>'`~`Vallarta Supermarkets`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`48`~`', 'name' =>'`~`Sahara Mini Mart`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`49`~`', 'name' =>'`~`Olive Drive Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`50`~`', 'name' =>'`~`Mikes Cheveron`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`51`~`', 'name' =>'`~`J&J Market`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`52`~`', 'name' =>'`~`Masun Enterprise`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`53`~`', 'name' =>'`~`R&M Market Inc`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`54`~`', 'name' =>'`~`Downtown Liquor & Foodmart`~`', 'state' =>'`~`NM`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`55`~`', 'name' =>'`~`Avoca Easy Stop`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`56`~`', 'name' =>'`~`Pinedale Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`57`~`', 'name' =>'`~`Loren Food Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`58`~`', 'name' =>'`~`Stop n Shop`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`59`~`', 'name' =>'`~`Rex Food & Candy`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`60`~`', 'name' =>'`~`Broadway Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`61`~`', 'name' =>'`~`Morten Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`62`~`', 'name' =>'`~`B&B Discount Beverage`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`63`~`', 'name' =>'`~`M&N Borderline Beverages`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`64`~`', 'name' =>'`~`Pancham LLC`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`65`~`', 'name' =>'`~`Beer & Liquor III`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`66`~`', 'name' =>'`~`Bercher Liquor & Beer`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`67`~`', 'name' =>'`~`Shoppers Corner`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`68`~`', 'name' =>'`~`Charlie Lahans Carousel`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`69`~`', 'name' =>'`~`Mini Mart & Smokes`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`70`~`', 'name' =>'`~`Riiser Energy`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`71`~`', 'name' =>'`~`Condon Oil`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`72`~`', 'name' =>'`~`American Petroleum`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`73`~`', 'name' =>'`~`IC Foodmart & Liquor`~`', 'state' =>'`~`NM`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`74`~`', 'name' =>'`~`Family Market`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`75`~`', 'name' =>'`~`Centennial Wine and Spirits`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`76`~`', 'name' =>'`~`Fair Price Food Store`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`77`~`', 'name' =>'`~`Los Cuatro Hermanas`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`78`~`', 'name' =>'`~`BevMo`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`79`~`', 'name' =>'`~`Kroger`~`', 'state' =>'`~`MA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`80`~`', 'name' =>'`~`Bashas`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`81`~`', 'name' =>'`~`Woodmans`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`82`~`', 'name' =>'`~`Meijer Inc`~`', 'state' =>'`~`NC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`83`~`', 'name' =>'`~`Schnuck Markets Inc`~`', 'state' =>'`~`NC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`84`~`', 'name' =>'`~`Weis Markets Inc`~`', 'state' =>'`~`NC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`85`~`', 'name' =>'`~`Vons`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`86`~`', 'name' =>'`~`Whole Foods`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`87`~`', 'name' =>'`~`Demoulas`~`', 'state' =>'`~`MA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`88`~`', 'name' =>'`~`Assoc Grocers Of Florida`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`89`~`', 'name' =>'`~`Ingles Markets`~`', 'state' =>'`~`NC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`90`~`', 'name' =>'`~`Food Lion`~`', 'state' =>'`~`NC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`91`~`', 'name' =>'`~`Smart & Final`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`92`~`', 'name' =>'`~`Harris Teeter`~`', 'state' =>'`~`NC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`94`~`', 'name' =>'`~`Winco`~`', 'state' =>'`~`ID`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`95`~`', 'name' =>'`~`Nash Finch`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`96`~`', 'name' =>'`~`Hannaford Bros`~`', 'state' =>'`~`ME`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`97`~`', 'name' =>'`~`Save Mart`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`98`~`', 'name' =>'`~`BJs Wholesale Club`~`', 'state' =>'`~`MA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`99`~`', 'name' =>'`~`Roundys`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`100`~`', 'name' =>'`~`Albertsons`~`', 'state' =>'`~`ID`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`101`~`', 'name' =>'`~`Kwik Trip`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`102`~`', 'name' =>'`~`Diaz S/M`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`103`~`', 'name' =>'`~`SVT`~`', 'state' =>'`~`IN`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`104`~`', 'name' =>'`~`Fairplay Foods`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`105`~`', 'name' =>'`~`Belvidere Pacemaker`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`106`~`', 'name' =>'`~`Super Fresh Market`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`107`~`', 'name' =>'`~`Snyder Pharmacy`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`108`~`', 'name' =>'`~`Liquor Stop 1`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`109`~`', 'name' =>'`~`El Ahorro Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`110`~`', 'name' =>'`~`C Discount Beverage`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`111`~`', 'name' =>'`~`Mug\'s Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`112`~`', 'name' =>'`~`West Side Store Inc.`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`113`~`', 'name' =>'`~`AVI Enterpries Inc.`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`114`~`', 'name' =>'`~`Super Stop`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`115`~`', 'name' =>'`~`Stop N Go`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`116`~`', 'name' =>'`~`KFL Sales`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`117`~`', 'name' =>'`~`Food Unlimited`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`118`~`', 'name' =>'`~`Cave Wine & Spirits`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`119`~`', 'name' =>'`~`Family Beer & Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`120`~`', 'name' =>'`~`Kenny\'s Market & Grill`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`121`~`', 'name' =>'`~`President Supermarket #2`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`122`~`', 'name' =>'`~`Exxon @ 103rd.`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`123`~`', 'name' =>'`~`A&S Discount Beverages`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`124`~`', 'name' =>'`~`Maxi Shell`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`125`~`', 'name' =>'`~`Super Sales USA, Inc.`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`126`~`', 'name' =>'`~`One Stop West Allis Food Store`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`127`~`', 'name' =>'`~`Ayotte\'s Stateline Market`~`', 'state' =>'`~`NH`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`128`~`', 'name' =>'`~`Sun Stop Liquor`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`129`~`', 'name' =>'`~`Family Food #1`~`', 'state' =>'`~`Fl`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`130`~`', 'name' =>'`~`Sedanos Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`131`~`', 'name' =>'`~`Broadway Liquors`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`132`~`', 'name' =>'`~`Stop N Go #5`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`133`~`', 'name' =>'`~`Santa Barbara Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`134`~`', 'name' =>'`~`Numero Uno Acquisitions, LLC`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`135`~`', 'name' =>'`~`Cheers Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`136`~`', 'name' =>'`~`Holiday Grocery`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`137`~`', 'name' =>'`~`10th Ave. Discount Liquor`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`138`~`', 'name' =>'`~`Mahi Short Shop`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`139`~`', 'name' =>'`~`K. Food Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`140`~`', 'name' =>'`~`Monterrey Market II, LLC`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`141`~`', 'name' =>'`~`Van\'s Liquor Store`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`142`~`', 'name' =>'`~`Simi Valley Wine & Spirit`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`143`~`', 'name' =>'`~`Four Corners Food Market`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`144`~`', 'name' =>'`~`Bravo Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`145`~`', 'name' =>'`~`Qwik-N-Easy Beverages`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`146`~`', 'name' =>'`~`17th St. BP`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`149`~`', 'name' =>'`~`C&K Market`~`', 'state' =>'`~`OR`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`150`~`', 'name' =>'`~`Reynolds Market`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`151`~`', 'name' =>'`~`O\'Brien\'s Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`152`~`', 'name' =>'`~`Costless Food #9`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`153`~`', 'name' =>'`~`MO Petroleum Inc.`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`154`~`', 'name' =>'`~`Tropical Supermarket #2`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`155`~`', 'name' =>'`~`Glaziers Food Marketplace`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`156`~`', 'name' =>'`~`Super Ron\'s`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`157`~`', 'name' =>'`~`Maxi Foods`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`158`~`', 'name' =>'`~`Nugget Markets Inc`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`159`~`', 'name' =>'`~`Berkot Super Foods`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`160`~`', 'name' =>'`~`Bilo`~`', 'state' =>'`~`SC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`161`~`', 'name' =>'`~`Martin\'s Harrisonburg`~`', 'state' =>'`~`VA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`162`~`', 'name' =>'`~`Tops Elmira`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`163`~`', 'name' =>'`~`Simply Food`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`164`~`', 'name' =>'`~`Best Buy Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`165`~`', 'name' =>'`~`Family Farm Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`166`~`', 'name' =>'`~`Giant Landover`~`', 'state' =>'`~`MD`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`167`~`', 'name' =>'`~`CVS`~`', 'state' =>'`~`RI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`168`~`', 'name' =>'`~`Arbor Drugs`~`', 'state' =>'`~`RI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`169`~`', 'name' =>'`~`Brown\'s County Market`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`170`~`', 'name' =>'`~`S/R Stroudsburg`~`', 'state' =>'`~`PA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`171`~`', 'name' =>'`~`Skogen\'s IGA`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`172`~`', 'name' =>'`~`Festival Foods `~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`173`~`', 'name' =>'`~`Gilberts Supervalu`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`174`~`', 'name' =>'`~`Mega Foods West`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`175`~`', 'name' =>'`~`Hitchcock Foodtown`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`176`~`', 'name' =>'`~`Lake Mills Sentry`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`177`~`', 'name' =>'`~`Burnstad\'s Tomah`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`178`~`', 'name' =>'`~`Angelis Marinette In`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`179`~`', 'name' =>'`~`Butch\'s Supervalu`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`180`~`', 'name' =>'`~`Nelson\'s County Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`181`~`', 'name' =>'`~`Dave\'s County Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`182`~`', 'name' =>'`~`Zinke\'s Village Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`183`~`', 'name' =>'`~`Delafield Sentry`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`184`~`', 'name' =>'`~`Westfield Supervalu`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`185`~`', 'name' =>'`~`Crossroads County`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`186`~`', 'name' =>'`~`Curry\'s IGA`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`187`~`', 'name' =>'`~`Cottage Grove Sentry`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`188`~`', 'name' =>'`~`Medford County Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`189`~`', 'name' =>'`~`Quality Foods`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`190`~`', 'name' =>'`~`Trig\'s Food and Drug`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`191`~`', 'name' =>'`~`Lee\'s Food`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`192`~`', 'name' =>'`~`University Supervalu`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`193`~`', 'name' =>'`~`State Street Sentry`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`194`~`', 'name' =>'`~`Fox Run Sentry`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`195`~`', 'name' =>'`~`Jewel Osco`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`196`~`', 'name' =>'`~`Shaw\'s`~`', 'state' =>'`~`SC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`197`~`', 'name' =>'`~`Hilldale Sentry`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`198`~`', 'name' =>'`~`Byron County Market`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`199`~`', 'name' =>'`~`Cub Foods`~`', 'state' =>'`~`MN`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`200`~`', 'name' =>'`~`Gordy\'s County Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`201`~`', 'name' =>'`~`Marketplace Foods`~`', 'state' =>'`~`ND`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`202`~`', 'name' =>'`~`Winn Dixie`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`203`~`', 'name' =>'`~`Dominicks`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`204`~`', 'name' =>'`~`Karl\'s Country`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`205`~`', 'name' =>'`~`Chemung Country Store`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`206`~`', 'name' =>'`~`Earth Fare`~`', 'state' =>'`~`NC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`207`~`', 'name' =>'`~`Tresierras Bros. Corp`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`208`~`', 'name' =>'`~`S.P.D. Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`209`~`', 'name' =>'`~`G&G Supermarkets`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`210`~`', 'name' =>'`~`Vallarta Supermarket`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`211`~`', 'name' =>'`~`Wal-Mart Stores Inc.`~`', 'state' =>'`~`AR`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`212`~`', 'name' =>'`~`Hy-Vee Food Stores`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`213`~`', 'name' =>'`~`Rite Aid`~`', 'state' =>'`~`PA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`214`~`', 'name' =>'`~`MCCS HQ`~`', 'state' =>'`~`VA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`215`~`', 'name' =>'`~`Walgreens`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`216`~`', 'name' =>'`~`Raleys`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`217`~`', 'name' =>'`~`Hess Express`~`', 'state' =>'`~`NJ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`218`~`', 'name' =>'`~`7-Eleven`~`', 'state' =>'`~`TX`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`219`~`', 'name' =>'`~`Giant Eagle`~`', 'state' =>'`~`PA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`220`~`', 'name' =>'`~`URM Stores`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`221`~`', 'name' =>'`~`Stater Bros`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`222`~`', 'name' =>'`~`Rouse Enterprise Inc.`~`', 'state' =>'`~`LA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`223`~`', 'name' =>'`~`Target Stores`~`', 'state' =>'`~`MN`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`224`~`', 'name' =>'`~`Freitags Food Center`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`225`~`', 'name' =>'`~`Super Saver 12`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`226`~`', 'name' =>'`~`Harter House Strafford`~`', 'state' =>'`~`MO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`227`~`', 'name' =>'`~`Pierces Marketplace`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`228`~`', 'name' =>'`~`Grasch Foods`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`229`~`', 'name' =>'`~`Quillins Decorah`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`230`~`', 'name' =>'`~`Sendiks Food Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`231`~`', 'name' =>'`~`Fareway Stores Inc.`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`232`~`', 'name' =>'`~`Piggly Wiggly`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`233`~`', 'name' =>'`~`Publix`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`234`~`', 'name' =>'`~`Miller & Sons Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`235`~`', 'name' =>'`~`Villiage Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`236`~`', 'name' =>'`~`Woodstock Food Mart`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`237`~`', 'name' =>'`~`M.G. Twin Inc.`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`238`~`', 'name' =>'`~`Hilldale Mart`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`239`~`', 'name' =>'`~`One Stop Liquor Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`240`~`', 'name' =>'`~`De Arcos Liquor`~`', 'state' =>'`~`NM`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`241`~`', 'name' =>'`~`Super Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`242`~`', 'name' =>'`~`Cedar Ridge Country Store`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`243`~`', 'name' =>'`~`Caseys General Store`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`244`~`', 'name' =>'`~`Dundee Supermart Inc`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`245`~`', 'name' =>'`~`Jolly Spirit Liquors`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`246`~`', 'name' =>'`~`Latino Mercado`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`247`~`', 'name' =>'`~`Sweetbay Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`248`~`', 'name' =>'`~`Fresh Market, The`~`', 'state' =>'`~`NC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`249`~`', 'name' =>'`~`Food Giant`~`', 'state' =>'`~`MO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`250`~`', 'name' =>'`~`Cigarette & Cigar Outlet`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`251`~`', 'name' =>'`~`Steves Liquor & More!`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`252`~`', 'name' =>'`~`Foodland Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`253`~`', 'name' =>'`~`Marys Food Markets`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`254`~`', 'name' =>'`~`Dal Pra Pacemaker`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`255`~`', 'name' =>'`~`Sunrise Liquor and Gifts`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`256`~`', 'name' =>'`~`CK Convenience`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`257`~`', 'name' =>'`~`Safari Food Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`258`~`', 'name' =>'`~`Day and Night Food Store`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`259`~`', 'name' =>'`~`National Food and Beverage`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`260`~`', 'name' =>'`~`Tina Grocery`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`261`~`', 'name' =>'`~`Acapulco Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`262`~`', 'name' =>'`~`Circle seven Mart`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`263`~`', 'name' =>'`~`Food 4 Less`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`264`~`', 'name' =>'`~`Hwy 19 Gas & Grill`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`265`~`', 'name' =>'`~`Borderline Beverages`~`', 'state' =>'`~`NH`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`266`~`', 'name' =>'`~`Food Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`267`~`', 'name' =>'`~`UFS Downtown Outlet Center`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`268`~`', 'name' =>'`~`Montecito Harbor Chevron`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`269`~`', 'name' =>'`~`Foresthome B Liquor`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`270`~`', 'name' =>'`~`Community Food`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`271`~`', 'name' =>'`~`M&S Food Store`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`272`~`', 'name' =>'`~`Quik Stop Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`273`~`', 'name' =>'`~`Cambridge Cooler, The`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`274`~`', 'name' =>'`~`Lubins Discount Beauty Supply`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`275`~`', 'name' =>'`~`May Flower Food Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`276`~`', 'name' =>'`~`El Norte Arco`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`277`~`', 'name' =>'`~`Stockman Farm Supply`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`278`~`', 'name' =>'`~`Sams Food`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`279`~`', 'name' =>'`~`Star 7 Liquor and Tobacco`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`280`~`', 'name' =>'`~`Green Meadow Market`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`282`~`', 'name' =>'`~`Tonys Markets`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`283`~`', 'name' =>'`~`A&J Discount Foodmart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`284`~`', 'name' =>'`~`A&M Discount Beverage`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`285`~`', 'name' =>'`~`Speedy Quick Stop`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`286`~`', 'name' =>'`~`Grocery Outlet`~`', 'state' =>'`~`AL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`287`~`', 'name' =>'`~`HH&D Distributors Inc`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`288`~`', 'name' =>'`~`Spiegelhoffs Super Foods`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`289`~`', 'name' =>'`~`XO Liquor`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`290`~`', 'name' =>'`~`Gilbert Convenient Mkt`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`291`~`', 'name' =>'`~`Total Wine & More`~`', 'state' =>'`~`MD`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`292`~`', 'name' =>'`~`Quiktrip`~`', 'state' =>'`~`OK`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`293`~`', 'name' =>'`~`Marianas Supermarkets`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`294`~`', 'name' =>'`~`B&E Liquor Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`295`~`', 'name' =>'`~`Murphys Sunnybrae Mkt`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`296`~`', 'name' =>'`~`SPD Markets`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`297`~`', 'name' =>'`~`Mar-Val Food Stores`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`298`~`', 'name' =>'`~`Sprouts Farmers Mkt`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`299`~`', 'name' =>'`~`Sunflower Farmers Mkt`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`300`~`', 'name' =>'`~`Road Ranger`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`301`~`', 'name' =>'`~`C&F of Davie`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`302`~`', 'name' =>'`~`Kelly Liquors`~`', 'state' =>'`~`NM`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`303`~`', 'name' =>'`~`Quick Pick`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`304`~`', 'name' =>'`~`Aries Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`305`~`', 'name' =>'`~`Villard Food`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`306`~`', 'name' =>'`~`Quillins Island`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`307`~`', 'name' =>'`~`Farmers Best`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`308`~`', 'name' =>'`~`JTYH Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`309`~`', 'name' =>'`~`Extra Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`310`~`', 'name' =>'`~`Food Plus`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`311`~`', 'name' =>'`~`K&K Food Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`312`~`', 'name' =>'`~`Super King`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`313`~`', 'name' =>'`~`Los Toros Meat Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`314`~`', 'name' =>'`~`Licalis Market & Spirits`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`315`~`', 'name' =>'`~`Better Trade Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`316`~`', 'name' =>'`~`Escambray Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`317`~`', 'name' =>'`~`Sheridan Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`318`~`', 'name' =>'`~`Pembroke U Gas`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`319`~`', 'name' =>'`~`Bell Gas Station`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`320`~`', 'name' =>'`~`Thornton Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`321`~`', 'name' =>'`~`Punjab Mobil Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`322`~`', 'name' =>'`~`Holiday Quality Foods`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`323`~`', 'name' =>'`~`Tops Ithaca`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`324`~`', 'name' =>'`~`GFS Hanover`~`', 'state' =>'`~`PA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`325`~`', 'name' =>'`~`Westbrook Market`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`326`~`', 'name' =>'`~`Circle K Stores`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`327`~`', 'name' =>'`~`Lowe\'s Food Stores`~`', 'state' =>'`~`NC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`328`~`', 'name' =>'`~`Treasure Island`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`329`~`', 'name' =>'`~`Pine Store #2`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`330`~`', 'name' =>'`~`Happy Foods`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`331`~`', 'name' =>'`~`Rosauers #37`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`332`~`', 'name' =>'`~`AG Supermarket`~`', 'state' =>'`~`NH`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`333`~`', 'name' =>'`~`Kelly Williamson Co`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`334`~`', 'name' =>'`~`Family Foods`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`335`~`', 'name' =>'`~`Illi Nois Valley Food`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`336`~`', 'name' =>'`~`Walts Food Center`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`337`~`', 'name' =>'`~`Farmer City`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`338`~`', 'name' =>'`~`Valli Produce`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`339`~`', 'name' =>'`~`Port Washington`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`340`~`', 'name' =>'`~`Save A Lot`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`341`~`', 'name' =>'`~`Tygart Valley Shop`~`', 'state' =>'`~`WV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`342`~`', 'name' =>'`~`Holiday Food Stores`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`343`~`', 'name' =>'`~`Quick Save Markets`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`344`~`', 'name' =>'`~`Triple J Mart`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`345`~`', 'name' =>'`~`Parkside Liquor & Grocery`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`346`~`', 'name' =>'`~`Gold Harvest`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`347`~`', 'name' =>'`~`Hometown Gas`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`348`~`', 'name' =>'`~`MG Twin Inc`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`349`~`', 'name' =>'`~`D.I Classic Mart`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`351`~`', 'name' =>'`~`Friendly Express`~`', 'state' =>'`~`GA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`352`~`', 'name' =>'`~`Travis Holding`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`353`~`', 'name' =>'`~`Stewart Market`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`354`~`', 'name' =>'`~`White Lake Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`355`~`', 'name' =>'`~`DS Market`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`356`~`', 'name' =>'`~`Liquor World- Trop`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`357`~`', 'name' =>'`~`USA Smoke Shop & Mini Mart`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`358`~`', 'name' =>'`~`Kelsey market`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`359`~`', 'name' =>'`~`West Town Market 3010`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`360`~`', 'name' =>'`~`Dins Garage & Mini Mart`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`361`~`', 'name' =>'`~`Mr. Mini Mart`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`362`~`', 'name' =>'`~`Seaway Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`363`~`', 'name' =>'`~`Pic Quick Stores`~`', 'state' =>'`~`NM`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`364`~`', 'name' =>'`~`Selam Trading`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`365`~`', 'name' =>'`~`Lake Wood Park Market`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`366`~`', 'name' =>'`~`Friendly Stop Store`~`', 'state' =>'`~`NH`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`367`~`', 'name' =>'`~`SK Food Mart Chevron`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`368`~`', 'name' =>'`~`Scottsdale Mini Mart`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`369`~`', 'name' =>'`~`A Discount Liquor`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`370`~`', 'name' =>'`~`Southern Spirits`~`', 'state' =>'`~`SC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`371`~`', 'name' =>'`~`Lee\'s Discount Liquor`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`372`~`', 'name' =>'`~`City Discount Beverages`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`373`~`', 'name' =>'`~`Penn Dutch`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`374`~`', 'name' =>'`~`Christianos Super Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`375`~`', 'name' =>'`~`Aafes`~`', 'state' =>'`~`TX`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`376`~`', 'name' =>'`~`Stuff You Like`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`377`~`', 'name' =>'`~`MGB Mart`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`378`~`', 'name' =>'`~`Discount Food Market`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`379`~`', 'name' =>'`~`Dahls Food`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`380`~`', 'name' =>'`~`Rainbow Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`381`~`', 'name' =>'`~`El Gaitero Supermarket II`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`382`~`', 'name' =>'`~`Cardinal Wine & Spirits`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`383`~`', 'name' =>'`~`Paesano Foods In.`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`384`~`', 'name' =>'`~`Buteras Finer Foods`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`385`~`', 'name' =>'`~`Bass Brothers Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`386`~`', 'name' =>'`~`Pioneer Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`387`~`', 'name' =>'`~`Munchies`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`388`~`', 'name' =>'`~`Masons Red Owl`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`389`~`', 'name' =>'`~`Orange Street Food Farm`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`390`~`', 'name' =>'`~`Coborns`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`391`~`', 'name' =>'`~`Sentry Foods`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`392`~`', 'name' =>'`~`Monomonee Falls`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`393`~`', 'name' =>'`~`County Market`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`394`~`', 'name' =>'`~`Evergreen IGA Plus`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`395`~`', 'name' =>'`~`Miller Bros Supermaarket`~`', 'state' =>'`~`OH`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`396`~`', 'name' =>'`~`Oregon Super Valu Food`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`397`~`', 'name' =>'`~`Austins Original`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`398`~`', 'name' =>'`~`Ft Atkinson Sentry`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`399`~`', 'name' =>'`~`Metcalfe Markets`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`400`~`', 'name' =>'`~`Lammers Food Fest`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`401`~`', 'name' =>'`~`Kramers Country Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`402`~`', 'name' =>'`~`Webster Avenue Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`403`~`', 'name' =>'`~`Marchants Supervalu`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`404`~`', 'name' =>'`~`Pamida`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`405`~`', 'name' =>'`~`Baja Ranch`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`406`~`', 'name' =>'`~`Beachs Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`407`~`', 'name' =>'`~`Heeb S East Main Grocery`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`408`~`', 'name' =>'`~`Sanrige Ent.`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`409`~`', 'name' =>'`~`North Entrance Shopping Center`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`410`~`', 'name' =>'`~`Charlies Country Mark`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`411`~`', 'name' =>'`~`Walworth Sentry`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`412`~`', 'name' =>'`~`Meehans IGA`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`413`~`', 'name' =>'`~`Whitewater Sentry`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`414`~`', 'name' =>'`~`ACME`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`415`~`', 'name' =>'`~`Shop N Save`~`', 'state' =>'`~`MO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`416`~`', 'name' =>'`~`Holiday Quality Foods`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`418`~`', 'name' =>'`~`Brite Spot/Albert Constantini`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`419`~`', 'name' =>'`~`Rob\'s Family Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`420`~`', 'name' =>'`~`Tower Energy Group`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`421`~`', 'name' =>'`~`Clarion Super Foods`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`422`~`', 'name' =>'`~`Plaza Foods Supermarket`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`423`~`', 'name' =>'`~`Your Family Grocery`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`424`~`', 'name' =>'`~`FJeld Family Foods`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`425`~`', 'name' =>'`~`Turnpike Chevron`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`426`~`', 'name' =>'`~`Wildcat Market and Liquor`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`427`~`', 'name' =>'`~`Grocers Supply`~`', 'state' =>'`~`TX`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`428`~`', 'name' =>'`~`Dans Supermarket`~`', 'state' =>'`~`UT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`429`~`', 'name' =>'`~`Socorro Supermarket`~`', 'state' =>'`~`NM`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`430`~`', 'name' =>'`~`Justice Quality Foods`~`', 'state' =>'`~`KY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`431`~`', 'name' =>'`~`Metropolitan Petroleum Company`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`432`~`', 'name' =>'`~`Mesa Star Inc`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`433`~`', 'name' =>'`~`Owls Liquor`~`', 'state' =>'`~`NM`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`434`~`', 'name' =>'`~`Russell Mini Mart`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`435`~`', 'name' =>'`~`UT Inc`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`436`~`', 'name' =>'`~`JNL Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`437`~`', 'name' =>'`~`Sunshine Market`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`438`~`', 'name' =>'`~`Marias Market`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`439`~`', 'name' =>'`~`Red Barn Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`440`~`', 'name' =>'`~`Inlet Harbour Lounge & Liquors`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`441`~`', 'name' =>'`~`Jojo Food Market`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`442`~`', 'name' =>'`~`Terrace Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`443`~`', 'name' =>'`~`Millers General Store`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`444`~`', 'name' =>'`~`Benders Foods`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`445`~`', 'name' =>'`~`Town & Country`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`446`~`', 'name' =>'`~`Aberdeen Big Star`~`', 'state' =>'`~`MS`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`447`~`', 'name' =>'`~`Foodtown`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`448`~`', 'name' =>'`~`Muskego Beer & Liq`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`449`~`', 'name' =>'`~`IGA Economizer`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`450`~`', 'name' =>'`~`North Shore Warehouse`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`451`~`', 'name' =>'`~`Oklahoma Liquor & Tabacco`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`452`~`', 'name' =>'`~`Mi Super Mercado`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`453`~`', 'name' =>'`~`Best Bet Stateline`~`', 'state' =>'`~`NH`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`454`~`', 'name' =>'`~`DWS of Green Bay`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`455`~`', 'name' =>'`~`Chevron Davie`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`456`~`', 'name' =>'`~`Charlotte Convenience Store`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`457`~`', 'name' =>'`~`William\'s Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`458`~`', 'name' =>'`~`Angler Discount Store`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`459`~`', 'name' =>'`~`Heidi\'s Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`460`~`', 'name' =>'`~`Heralys Beverages`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`461`~`', 'name' =>'`~`BP Deon\'s`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`462`~`', 'name' =>'`~`Tri-Par Oil Co.`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`463`~`', 'name' =>'`~`Addison Station`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`464`~`', 'name' =>'`~`NU-Way Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`465`~`', 'name' =>'`~`Leo Ybor Gas LLC`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`466`~`', 'name' =>'`~`J&S Food & Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`467`~`', 'name' =>'`~`A&E Convenience`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`468`~`', 'name' =>'`~`MGA Liquor & Deli`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`469`~`', 'name' =>'`~`Abes Liquor and Food`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`470`~`', 'name' =>'`~`Pasha Market #1`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`471`~`', 'name' =>'`~`Loudon Mart`~`', 'state' =>'`~`NH`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`472`~`', 'name' =>'`~`Matteson Liquors Inc.`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`473`~`', 'name' =>'`~`Prime Stop Grocery Market`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`474`~`', 'name' =>'`~`Star Food & Gas`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`476`~`', 'name' =>'`~`Mad Max C`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`477`~`', 'name' =>'`~`Quick Stop`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`478`~`', 'name' =>'`~`Northside Liquor & Gorcery`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`479`~`', 'name' =>'`~`CL Coupon Center`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`480`~`', 'name' =>'`~`Mayo Food Store`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`481`~`', 'name' =>'`~`Neighborhood Food Stores`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`482`~`', 'name' =>'`~`Midjit Market`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`483`~`', 'name' =>'`~`Open Pantry Food Mart`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`484`~`', 'name' =>'`~`El Campesino Meat Mkt`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`485`~`', 'name' =>'`~`Hayma En. LLC`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`486`~`', 'name' =>'`~`Super A Foods`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`487`~`', 'name' =>'`~`Johnson Super Stop`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`488`~`', 'name' =>'`~`Kings Market and Deli`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`489`~`', 'name' =>'`~`RNR Liquor & Convenience`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`490`~`', 'name' =>'`~`Plug and Jug Market Inc`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`491`~`', 'name' =>'`~`NA Enterprises Inc`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`492`~`', 'name' =>'`~`Jalaram 2 Inc`~`', 'state' =>'`~`SC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`493`~`', 'name' =>'`~`Cypress Food Store`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`494`~`', 'name' =>'`~`Dollar General`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`495`~`', 'name' =>'`~`Country Market, The`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`496`~`', 'name' =>'`~`Kwik Mart`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`497`~`', 'name' =>'`~`JB Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`498`~`', 'name' =>'`~`Bobs Liquor and Food Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`499`~`', 'name' =>'`~`Flamingo Mini Mart`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`500`~`', 'name' =>'`~`Hualapai Kwik Stop`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`501`~`', 'name' =>'`~`Sunset Market Bait & Tackle`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`502`~`', 'name' =>'`~`Johnnys Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`503`~`', 'name' =>'`~`LA Edlblack Co`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`504`~`', 'name' =>'`~`The Fresh Mkt.`~`', 'state' =>'`~`NC`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`505`~`', 'name' =>'`~`Freedom Foods`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`506`~`', 'name' =>'`~`Kier\'s Thriftway`~`', 'state' =>'`~`KS`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`507`~`', 'name' =>'`~`Vic\'s Discount Mkt`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`508`~`', 'name' =>'`~`CL Quick Stop`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`509`~`', 'name' =>'`~`Barky Mart`~`', 'state' =>'`~`OH`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`510`~`', 'name' =>'`~`ABC Fine Wine and Spirits`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`511`~`', 'name' =>'`~`Ries\' Sausage Plus Spirits`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`512`~`', 'name' =>'`~`Bi-Rite Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`513`~`', 'name' =>'`~`Lolo\'s Fiesta Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`514`~`', 'name' =>'`~`SLO Fresh Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`515`~`', 'name' =>'`~`Avenue Wine & Liquor Inc.`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`516`~`', 'name' =>'`~`Raceway`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`517`~`', 'name' =>'`~`N&A Petroleum`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`518`~`', 'name' =>'`~`EZ Food Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`519`~`', 'name' =>'`~`American Mini Mart`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`520`~`', 'name' =>'`~`Park Plaza Liquor & Deli`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`521`~`', 'name' =>'`~`Station House`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`522`~`', 'name' =>'`~`Miami Drive Thru`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`523`~`', 'name' =>'`~`Mike\'s Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`524`~`', 'name' =>'`~`Conway Food`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`525`~`', 'name' =>'`~`Rt 31 Pantry & Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`526`~`', 'name' =>'`~`Freddies Liquor & Deli`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`527`~`', 'name' =>'`~`SuperPlus Chevron`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`528`~`', 'name' =>'`~`Discount Liquor`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`529`~`', 'name' =>'`~`Quick Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`530`~`', 'name' =>'`~`Corral II`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`531`~`', 'name' =>'`~`Fiesta Mart`~`', 'state' =>'`~`TX`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`532`~`', 'name' =>'`~`Seacrest Trading`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`533`~`', 'name' =>'`~`Hansens`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`534`~`', 'name' =>'`~`Nexcom`~`', 'state' =>'`~`VA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`535`~`', 'name' =>'`~`Big Y Foods Inc`~`', 'state' =>'`~`MA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`536`~`', 'name' =>'`~`Town Pump`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`537`~`', 'name' =>'`~`Southgate Mkt`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`538`~`', 'name' =>'`~`Santa Cruz Mkt`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`539`~`', 'name' =>'`~`Viking Village`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`540`~`', 'name' =>'`~`3rd Base Disc. Bev.`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`541`~`', 'name' =>'`~`Park Avenue Discount Bev`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`542`~`', 'name' =>'`~`Santa Monica Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`543`~`', 'name' =>'`~`Kwik Pantry`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`544`~`', 'name' =>'`~`Sambas Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`545`~`', 'name' =>'`~`Stop 24 Food Store`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`546`~`', 'name' =>'`~`Hilltop Market`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`547`~`', 'name' =>'`~`Get N Go`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`548`~`', 'name' =>'`~`Art Deco Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`549`~`', 'name' =>'`~`Foodmart/Neptune`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`550`~`', 'name' =>'`~`Thompson\'s county`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`551`~`', 'name' =>'`~`Farmers Marketplace`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`552`~`', 'name' =>'`~`B&N Food Mart`~`', 'state' =>'`~`RI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`553`~`', 'name' =>'`~`Bill\'s Self Services`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`554`~`', 'name' =>'`~`Liquor Bank`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`555`~`', 'name' =>'`~`Slick\'s Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`556`~`', 'name' =>'`~`Farr Better Spirits`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`557`~`', 'name' =>'`~`Ray\'s Liquor Wines`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`558`~`', 'name' =>'`~`Twin Lakes Sentry`~`', 'state' =>'`~~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`560`~`', 'name' =>'`~`Lakeside Supervalu`~`', 'state' =>'`~~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`561`~`', 'name' =>'`~`Metro Foodland`~`', 'state' =>'`~~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`562`~`', 'name' =>'`~`Denny\'s Supervalu`~`', 'state' =>'`~~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`563`~`', 'name' =>'`~`Defense Commissary`~`', 'state' =>'`~`MO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`564`~`', 'name' =>'`~`Scolaris`~`', 'state' =>'`~~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`565`~`', 'name' =>'`~`Marketplace Fd Menomonie`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`566`~`', 'name' =>'`~`Apple Tree`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`567`~`', 'name' =>'`~`Buntys Liquor`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`568`~`', 'name' =>'`~`Delmont SNS`~`', 'state' =>'`~`PA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`569`~`', 'name' =>'`~`Lee & Dads IGA`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`570`~`', 'name' =>'`~`Cabana Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`571`~`', 'name' =>'`~`Sam\'s Saticoy Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`572`~`', 'name' =>'`~`Valley Beverage Co`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`573`~`', 'name' =>'`~`Cenex Ampride`~`', 'state' =>'`~`IA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`574`~`', 'name' =>'`~`Khoury\'s Market Place`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`575`~`', 'name' =>'`~`Frys`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`576`~`', 'name' =>'`~`Ralphs`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`577`~`', 'name' =>'`~`Angelo\'s Fresh Mkt`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`578`~`', 'name' =>'`~`New Market`~`', 'state' =>'`~`IN`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`579`~`', 'name' =>'`~`Cas Wise Foods`~`', 'state' =>'`~`MN`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`580`~`', 'name' =>'`~`Beloit Mobil`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`581`~`', 'name' =>'`~`Silvermill Food Store`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`582`~`', 'name' =>'`~`Antidote`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`583`~`', 'name' =>'`~`Jackie\'s Market`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`584`~`', 'name' =>'`~`Giant Oil 177`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`585`~`', 'name' =>'`~`Tahir Enterprises`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`586`~`', 'name' =>'`~`Palm Beach Liquor`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`587`~`', 'name' =>'`~`Our Town`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`588`~`', 'name' =>'`~`PW Mart Inc.`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`589`~`', 'name' =>'`~`Twin Oak Liquors`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`590`~`', 'name' =>'`~`Stop N Save Food Store #5`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`591`~`', 'name' =>'`~`Lanark Food Center`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`592`~`', 'name' =>'`~`Liquor Barn`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`593`~`', 'name' =>'`~`Jiffy MT`~`', 'state' =>'`~`NH`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`594`~`', 'name' =>'`~`Jiffy Food Mart #2`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`595`~`', 'name' =>'`~`Family Hernandez Colon Corp`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`596`~`', 'name' =>'`~`Lions Quick Mart`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`597`~`', 'name' =>'`~`Great Lakes Foods`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`598`~`', 'name' =>'`~`Suzy Q Market`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`599`~`', 'name' =>'`~`Lucky`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`600`~`', 'name' =>'`~`Main Street Market`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`601`~`', 'name' =>'`~`Safeway Digital/Phoenix`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`602`~`', 'name' =>'`~`Safeway Digital/Vons`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`603`~`', 'name' =>'`~`Jeffs Spirits On Main`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`604`~`', 'name' =>'`~`Hi Lo Grocery`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`605`~`', 'name' =>'`~`H&M Food Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`606`~`', 'name' =>'`~`Liquor Locker`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`607`~`', 'name' =>'`~`Remke Market`~`', 'state' =>'`~`KY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`608`~`', 'name' =>'`~`Mazo Liquor`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`609`~`', 'name' =>'`~`Bermuda Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`610`~`', 'name' =>'`~`United Supermarkets`~`', 'state' =>'`~`TX`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`611`~`', 'name' =>'`~`Jerome Drugs`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`612`~`', 'name' =>'`~`Elmwood Foods`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`613`~`', 'name' =>'`~`Dicarlo Liquor Inc.`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`614`~`', 'name' =>'`~`Kallattu Grocery`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`615`~`', 'name' =>'`~`Family Hernandez Mayabeque Corp`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`616`~`', 'name' =>'`~`Reese and Ray\'s IGA`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`617`~`', 'name' =>'`~`Harvest Fare`~`', 'state' =>'`~`MD`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`618`~`', 'name' =>'`~`LA Nueva Bella Market`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`619`~`', 'name' =>'`~`Miramar Sunoco`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`620`~`', 'name' =>'`~`Super H`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`621`~`', 'name' =>'`~`Quik Mart Stores`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`622`~`', 'name' =>'`~`Sun Valley Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`623`~`', 'name' =>'`~`Sam\'s Saticoy Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`624`~`', 'name' =>'`~`Stop & Save`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`625`~`', 'name' =>'`~`Johns Food Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`626`~`', 'name' =>'`~`El Nuevo Emperador`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`627`~`', 'name' =>'`~`Food Maxx`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`628`~`', 'name' =>'`~`A1 Team Corp`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`629`~`', 'name' =>'`~`Evergreen Discount Liquors`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`630`~`', 'name' =>'`~`Bay Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`631`~`', 'name' =>'`~`Tower Liquors`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`632`~`', 'name' =>'`~`Johnson Junction`~`', 'state' =>'`~`IN`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`633`~`', 'name' =>'`~` Speedy Mart`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`634`~`', 'name' =>'`~`Food Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`635`~`', 'name' =>'`~`Safeway Digital/Seattle`~`', 'state' =>'`~`WA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`636`~`', 'name' =>'`~`Ramona Lisa\'s Beer & Wine`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`637`~`', 'name' =>'`~`H & H Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`638`~`', 'name' =>'`~`Santomas Liquors`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`639`~`', 'name' =>'`~`Southside Mini Mart`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`640`~`', 'name' =>'`~`Food Express Market & Deli`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`641`~`', 'name' =>'`~`Total Beverage`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`642`~`', 'name' =>'`~`BevMo Tempe #83`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`643`~`', 'name' =>'`~`Chambers Wine & Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`644`~`', 'name' =>'`~`Fisher\'s Discount Liquor Barn`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`645`~`', 'name' =>'`~`Pacific Convenience`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`646`~`', 'name' =>'`~`Hazel\'s Beverage World`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`647`~`', 'name' =>'`~`Daveco Liquors`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`648`~`', 'name' =>'`~`Argonaut Wine & Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`649`~`', 'name' =>'`~`Bevmo Happy Valley #115`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`650`~`', 'name' =>'`~`Safeway Digital/Nor Cal`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`651`~`', 'name' =>'`~`Beverage Place`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`652`~`', 'name' =>'`~`Liquor Mart`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`653`~`', 'name' =>'`~`Bevmo Goodyear #82`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`654`~`', 'name' =>'`~`Bevmo Scottsdale #87`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`655`~`', 'name' =>'`~`Bevmo Chandler #73`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`656`~`', 'name' =>'`~`Bevmo Glendale #85`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`657`~`', 'name' =>'`~`Davidsons Liquors, Inc`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`658`~`', 'name' =>'`~`Wilbur\'s Total Beverage`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`659`~`', 'name' =>'`~`Bevmo #101`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`660`~`', 'name' =>'`~`Beverage Place II`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`661`~`', 'name' =>'`~`Marcus Liquor & Deli`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`662`~`', 'name' =>'`~`Supermarket Liquors`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`663`~`', 'name' =>'`~`Slick\'s Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`664`~`', 'name' =>'`~`Liquor Max Warehouse`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`665`~`', 'name' =>'`~`Bevmo Manhattan Beach #111`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`666`~`', 'name' =>'`~`Bevmo Costa Mesa #58`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`667`~`', 'name' =>'`~`Bevmo Torrance #56`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`668`~`', 'name' =>'`~`Bevmo Brea #30`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`669`~`', 'name' =>'`~`EBK Retail Inc`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`670`~`', 'name' =>'`~`Paradise Liquor Mini Mart`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`671`~`', 'name' =>'`~`Applejack Wine & Spirits`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`672`~`', 'name' =>'`~`Wallaby\'s Liquor Warehouse`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`673`~`', 'name' =>'`~`Bevmo Irvine #29`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`674`~`', 'name' =>'`~`Bevmo Huntington Beach #37`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`675`~`', 'name' =>'`~`Bevmo Mesa #58`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`676`~`', 'name' =>'`~`Arts Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`677`~`', 'name' =>'`~`The Bottle Shop`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`678`~`', 'name' =>'`~`International Win & Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`679`~`', 'name' =>'`~`San Dimas Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`680`~`', 'name' =>'`~`Freeway Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`681`~`', 'name' =>'`~`Pinal Food Market`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`682`~`', 'name' =>'`~`Fine Wine & Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`683`~`', 'name' =>'`~`Max Mart`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`684`~`', 'name' =>'`~`Parker Payless Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`685`~`', 'name' =>'`~`Weber\'s IGA`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`686`~`', 'name' =>'`~`Michael\'s Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`687`~`', 'name' =>'`~`Heritage Discount Wine & Liquors`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`688`~`', 'name' =>'`~`Soto Liquor Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`689`~`', 'name' =>'`~`Parker Payless Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`690`~`', 'name' =>'`~`Nickey\'s Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`691`~`', 'name' =>'`~`Bouquet Plaza Liq`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`692`~`', 'name' =>'`~`Bunker Hill Market & Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`693`~`', 'name' =>'`~`Liquor Max`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`694`~`', 'name' =>'`~`Calimex Family Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`695`~`', 'name' =>'`~`King\'s`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`696`~`', 'name' =>'`~`Country Liquor II`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`697`~`', 'name' =>'`~`Bubbles Liquor World`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`698`~`', 'name' =>'`~`Outback Liquors`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`699`~`', 'name' =>'`~`KH & H Liquors`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`700`~`', 'name' =>'`~`Bevmo Van Nuys #38`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`701`~`', 'name' =>'`~`Bevmo Encino #129`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`702`~`', 'name' =>'`~`Bevmo Tucson #101`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`703`~`', 'name' =>'`~`Jubilation Wine, Spirits & Beer`~`', 'state' =>'`~`NM`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`704`~`', 'name' =>'`~`Adobe Wine & Liquor`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`705`~`', 'name' =>'`~`Hi-Time`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`706`~`', 'name' =>'`~`G Market & Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`707`~`', 'name' =>'`~`Holly Main Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`708`~`', 'name' =>'`~`Liquor Land`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`709`~`', 'name' =>'`~`Hoppy\'s Food Mart`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`710`~`', 'name' =>'`~`Mollie Stone\'s Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`711`~`', 'name' =>'`~`Canyon Village Market`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`712`~`', 'name' =>'`~`Mangrove Bottle Shop`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`713`~`', 'name' =>'`~`Wag\'s Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`714`~`', 'name' =>'`~`Stewarts Liquor & Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`715`~`', 'name' =>'`~`Cost Plus`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`716`~`', 'name' =>'`~`Chicone\'s Liquor Mart`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`717`~`', 'name' =>'`~`Trader Joe\'s`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`718`~`', 'name' =>'`~`Green Jug Fine Wine & Spirits`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`719`~`', 'name' =>'`~`Lone Hill Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`720`~`', 'name' =>'`~`Sam\'s Broadway Liquors`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`721`~`', 'name' =>'`~`Grand Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`722`~`', 'name' =>'`~`Nielsen\'s Mkt`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`723`~`', 'name' =>'`~`Ernies Liquors`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`724`~`', 'name' =>'`~`Safeway Nor Cal`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`725`~`', 'name' =>'`~`Safeway Seattle`~`', 'state' =>'`~`WA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`726`~`', 'name' =>'`~`Safeway Phx`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`727`~`', 'name' =>'`~`C & D Liquors`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`728`~`', 'name' =>'`~`Berkely Bowl Produce`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`729`~`', 'name' =>'`~`Vicente Foods`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`730`~`', 'name' =>'`~`Jons Marketplace`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`731`~`', 'name' =>'`~`Central Mkt. Mill Creek`~`', 'state' =>'`~`WA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`732`~`', 'name' =>'`~`Sunset Park Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`733`~`', 'name' =>'`~`Safeway Texas`~`', 'state' =>'`~`TX`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`734`~`', 'name' =>'`~`H.E. Butt Grocery`~`', 'state' =>'`~`TX`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`735`~`', 'name' =>'`~`Family Food Store`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`736`~`', 'name' =>'`~`Prescott Liquor Barn`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`737`~`', 'name' =>'`~`Davidsons Liquors`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`738`~`', 'name' =>'`~`Boys Mkt`~`', 'state' =>'`~`NM`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`739`~`', 'name' =>'`~`Liquor Barn Ent`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`740`~`', 'name' =>'`~`Zanotta\'s Family Mkt`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`741`~`', 'name' =>'`~`Big Saver Foods #10`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`742`~`', 'name' =>'`~`Fred Meyer`~`', 'state' =>'`~~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`743`~`', 'name' =>'`~`Liquor Square`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`744`~`', 'name' =>'`~`Bubbles Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`745`~`', 'name' =>'`~`Bridle Trails Red Apple`~`', 'state' =>'`~`WA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`746`~`', 'name' =>'`~`Mosaic Market`~`', 'state' =>'`~`TX`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`747`~`', 'name' =>'`~`Mission Wine Spirits`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`748`~`', 'name' =>'`~`QFC`~`', 'state' =>'`~`WA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`749`~`', 'name' =>'`~`Farmer Joe\'s Market Place`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`750`~`', 'name' =>'`~`Milam\'s Mkt`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`751`~`', 'name' =>'`~`Bristol Farms`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`752`~`', 'name' =>'`~`Village Wine & Spirits`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`753`~`', 'name' =>'`~`Pay Less Foods`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`754`~`', 'name' =>'`~`FMS`~`', 'state' =>'`~`NM`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`755`~`', 'name' =>'`~`Whiskey Well & Pantry`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`756`~`', 'name' =>'`~`Standley Lake Marketplace Liq`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`757`~`', 'name' =>'`~`Wakefern`~`', 'state' =>'`~`NJ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`758`~`', 'name' =>'`~`Shoprite of Greenwich`~`', 'state' =>'`~`NJ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`759`~`', 'name' =>'`~`El Mexicano Market & Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`760`~`', 'name' =>'`~`Marketplace Wine & Spirits`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`761`~`', 'name' =>'`~`Malones Food Stores`~`', 'state' =>'`~`TX`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`762`~`', 'name' =>'`~`S/R of Hunterdon`~`', 'state' =>'`~`?`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`763`~`', 'name' =>'`~`Heinen\'s`~`', 'state' =>'`~`OH`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`764`~`', 'name' =>'`~`Metropolitan Market`~`', 'state' =>'`~`WA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`765`~`', 'name' =>'`~`Santa Fe Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`766`~`', 'name' =>'`~`Ray\'s Liquor`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`767`~`', 'name' =>'`~`Coles Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`768`~`', 'name' =>'`~`Gelson\'s Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`769`~`', 'name' =>'`~`Safeway Denver`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`770`~`', 'name' =>'`~`Price Chopper`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`771`~`', 'name' =>'`~`Safeway Eastern Div`~`', 'state' =>'`~`MD`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`772`~`', 'name' =>'`~`SNS/Giant Foods/Martins`~`', 'state' =>'`~`PA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`773`~`', 'name' =>'`~`West Seattle Thriftway`~`', 'state' =>'`~`WA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`774`~`', 'name' =>'`~`Spirit Seller`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`775`~`', 'name' =>'`~`Ralston Square Liquors`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`776`~`', 'name' =>'`~`Wegmans Food Mkt`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`777`~`', 'name' =>'`~`Ray\'s Wine & Spirits`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`778`~`', 'name' =>'`~`Coldspring Liquor`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`779`~`', 'name' =>'`~`Lukas Liquor Superstore`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`780`~`', 'name' =>'`~`Cheer\'s Liquor Mart`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`781`~`', 'name' =>'`~`B&B Beverage`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`782`~`', 'name' =>'`~`Bevmo Rolling Hills #113`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`783`~`', 'name' =>'`~`Mars Super Markets Inc`~`', 'state' =>'`~`MD`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`784`~`', 'name' =>'`~`Fairway Red Hook`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`785`~`', 'name' =>'`~`Oliver\'s Mkt #3`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`786`~`', 'name' =>'`~`Keyport Liq Outlet`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`787`~`', 'name' =>'`~`Jefferson IGA`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`788`~`', 'name' =>'`~`Fairway Stamford`~`', 'state' =>'`~`CT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`789`~`', 'name' =>'`~`Remedy Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`790`~`', 'name' =>'`~`Rima\'s Grocery & Deli`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`791`~`', 'name' =>'`~`Madison Foods`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`792`~`', 'name' =>'`~`Devon Market`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`793`~`', 'name' =>'`~`Treasure Island`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`794`~`', 'name' =>'`~`The Liquor Cabinet II`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`795`~`', 'name' =>'`~`Mega Discount Liq.`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`796`~`', 'name' =>'`~`Quality Market Deli`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`797`~`', 'name' =>'`~`Superstore #3`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`798`~`', 'name' =>'`~`Sam\'s SE Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`799`~`', 'name' =>'`~`Colorado Liquor Outlet`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`800`~`', 'name' =>'`~`Big Town Liquors`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`801`~`', 'name' =>'`~`Mike S Thriftway`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`802`~`', 'name' =>'`~`Food Maxx`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`803`~`', 'name' =>'`~`Fairway Pelham`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`804`~`', 'name' =>'`~`Bruin Spirits`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`805`~`', 'name' =>'`~`BNT Liq of Cape Haze`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`806`~`', 'name' =>'`~`Pine Creek Wine`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`807`~`', 'name' =>'`~`Star Liquors`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`808`~`', 'name' =>'`~`Shoreline Central Mkt`~`', 'state' =>'`~`WA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`809`~`', 'name' =>'`~`Wadsworth Liquor & Wine`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`810`~`', 'name' =>'`~`Circus Liquors, Inc.`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`811`~`', 'name' =>'`~`Fairway Douglaston`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`812`~`', 'name' =>'`~`Spec\'s Liquor Stores`~`', 'state' =>'`~`TX`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`813`~`', 'name' =>'`~`Sarasota Wine & Spirits`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`814`~`', 'name' =>'`~`Rinconada Liquors`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`815`~`', 'name' =>'`~`Mega Discount Liquors`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`816`~`', 'name' =>'`~`Wine Village`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`817`~`', 'name' =>'`~`Heritage Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`818`~`', 'name' =>'`~`Kwik Stops`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`819`~`', 'name' =>'`~`Giant Discount Liquors`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`820`~`', 'name' =>'`~`Unionjack Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`821`~`', 'name' =>'`~`Wine Village`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`822`~`', 'name' =>'`~`Boulder Wine & Spirits`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`823`~`', 'name' =>'`~`Terry\'s Country Stores Inc`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`824`~`', 'name' =>'`~`Crown Liquor Inc`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`825`~`', 'name' =>'`~`Bay Supermarket`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`826`~`', 'name' =>'`~`Top Star Express`~`', 'state' =>'`~`PA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`827`~`', 'name' =>'`~`Fresh Grocer of 54th`~`', 'state' =>'`~`PA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`828`~`', 'name' =>'`~`Fairway Plainview `~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`829`~`', 'name' =>'`~`BNT Liquors and Fine Wines`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`830`~`', 'name' =>'`~`Jewell Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`831`~`', 'name' =>'`~`Stodolas IGA`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`832`~`', 'name' =>'`~`Walters IGA`~`', 'state' =>'`~`MT`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`833`~`', 'name' =>'`~`Richey\'s East`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`834`~`', 'name' =>'`~`Bottle Barn Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`835`~`', 'name' =>'`~`Discount Liquor Inc`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`836`~`', 'name' =>'`~`Speedway Arco`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`838`~`', 'name' =>'`~`Pacific Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`839`~`', 'name' =>'`~`Philnor Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`840`~`', 'name' =>'`~`Big Daddy Liquor Store`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`841`~`', 'name' =>'`~`Monroe Liquor Plaza`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`842`~`', 'name' =>'`~`Nature\'s Market`~`', 'state' =>'`~`WA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`843`~`', 'name' =>'`~`The Beverage Co`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`844`~`', 'name' =>'`~`Pine Lake Market`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`845`~`', 'name' =>'`~`Showerman\'s Fine Wine & Liq`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`846`~`', 'name' =>'`~`Quality Dairy`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`847`~`', 'name' =>'`~`Taylor Party Store`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`848`~`', 'name' =>'`~`Ralston Square Liq.`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`849`~`', 'name' =>'`~`Cal Mart Inc`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`851`~`', 'name' =>'`~`G.S Market`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`852`~`', 'name' =>'`~`Copper Still Liquors`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`853`~`', 'name' =>'`~`Bear Valley Wine & Spirits`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`854`~`', 'name' =>'`~`Novi Fine Wine & Liquor`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`855`~`', 'name' =>'`~`Olesons Market`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`856`~`', 'name' =>'`~`Orion Keg N Wine`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`857`~`', 'name' =>'`~`Kroger/Detroit`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`858`~`', 'name' =>'`~`Liquor City`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`859`~`', 'name' =>'`~`Hills Wine & Spirits`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`860`~`', 'name' =>'`~`BP Gas`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`861`~`', 'name' =>'`~`Base Liquor`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`862`~`', 'name' =>'`~`Bloomfield Wine & Spirits`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`863`~`', 'name' =>'`~`Shop-N-Save`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`864`~`', 'name' =>'`~`Glens Market`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`865`~`', 'name' =>'`~`Market Square of Birmingham`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`866`~`', 'name' =>'`~`Woods Wholesale Win`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`867`~`', 'name' =>'`~`Top Shelf Liquors`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`868`~`', 'name' =>'`~`Vreeland Market`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`869`~`', 'name' =>'`~`Toms Food Market`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`870`~`', 'name' =>'`~` Econofoods`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`871`~`', 'name' =>'`~`Sheetz Convenience Store`~`', 'state' =>'`~~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`872`~`', 'name' =>'`~`BB\'s Liquor & Fine Wine`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`873`~`', 'name' =>'`~`Smiths`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`874`~`', 'name' =>'`~`Market Square of Bloomfield`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`875`~`', 'name' =>'`~`Casa Del vino`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`876`~`', 'name' =>'`~`Liquor Village I`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`877`~`', 'name' =>'`~`Rainbow Liquor`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`878`~`', 'name' =>'`~`Discount Drinks, Etc`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`879`~`', 'name' =>'`~`Brass Mug Liquor`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`880`~`', 'name' =>'`~`Biggie Wine & Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`881`~`', 'name' =>'`~`Dandy Mini Marts`~`', 'state' =>'`~~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`882`~`', 'name' =>'`~`Springs Liquor Outlet`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`883`~`', 'name' =>'`~`Sierra Hills Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`884`~`', 'name' =>'`~`Johnny Mac\'s`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`885`~`', 'name' =>'`~`Olesons foods`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`886`~`', 'name' =>'`~`Dominick Market`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`887`~`', 'name' =>'`~`Ralston Square Liquors`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`888`~`', 'name' =>'`~`Roy\'s Liquors and Fine Wines`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`889`~`', 'name' =>'`~`Pacific Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`890`~`', 'name' =>'`~`Sonoma Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`892`~`', 'name' =>'`~`Youngstown Giant Eagle`~`', 'state' =>'`~`PA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`893`~`', 'name' =>'`~`Corkes Bottles & Brews`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`894`~`', 'name' =>'`~`Fairway Westbury LLC`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`895`~`', 'name' =>'`~`Westlake Wine & Spirits`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`896`~`', 'name' =>'`~`Acme/Click`~`', 'state' =>'`~`OH`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`897`~`', 'name' =>'`~`Carson\'s Wine & Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`898`~`', 'name' =>'`~`Harbor Food Mart`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`900`~`', 'name' =>'`~`Costless Food`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`901`~`', 'name' =>'`~`Tenutas 0920`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`902`~`', 'name' =>'`~`Singh Collections Fine Wine Merch.`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`903`~`', 'name' =>'`~`International Beverage`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`904`~`', 'name' =>'`~`Eastridge Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`905`~`', 'name' =>'`~`N FoodMart`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`906`~`', 'name' =>'`~`Soo Corner Store`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`907`~`', 'name' =>'`~`Franklin Liquor & Deli`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`908`~`', 'name' =>'`~`Roth Family Markets`~`', 'state' =>'`~`OR`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`909`~`', 'name' =>'`~`Westminster Total Beverae`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`910`~`', 'name' =>'`~`Jay Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`911`~`', 'name' =>'`~`Bartell Drug Store`~`', 'state' =>'`~`WA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`912`~`', 'name' =>'`~`Jensen\'s Finest Foods`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`913`~`', 'name' =>'`~`Northshore Market Place`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`914`~`', 'name' =>'`~`Rebills`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`915`~`', 'name' =>'`~`Red & White Mkt`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`916`~`', 'name' =>'`~`Oliver\'s Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`917`~`', 'name' =>'`~`The Beer Depot`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`918`~`', 'name' =>'`~`Consumer Outlet Bev. Ctr.`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`919`~`', 'name' =>'`~`Georges Wine & Spirits`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`920`~`', 'name' =>'`~`House Of Bottles`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`921`~`', 'name' =>'`~`Keil\'s Food Stores`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`922`~`', 'name' =>'`~`Cardinal Warehouse`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`924`~`', 'name' =>'`~`Luekens Liquor`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`925`~`', 'name' =>'`~`Otto\'s Beverage Ctr.`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`926`~`', 'name' =>'`~`United Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`927`~`', 'name' =>'`~`Yorkville Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`928`~`', 'name' =>'`~`Antioch Fine Wine & Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`929`~`', 'name' =>'`~`Linden Liquors inc`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`930`~`', 'name' =>'`~`Cermak Fresh Mkt`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`931`~`', 'name' =>'`~`True Liquors`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`932`~`', 'name' =>'`~`Prestige Wine & Spirits`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`933`~`', 'name' =>'`~`Jerry\'s Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`934`~`', 'name' =>'`~`Broudy Bros., LTD`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`935`~`', 'name' =>'`~`Cigarette Depot & Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`936`~`', 'name' =>'`~`Foremost LIquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`937`~`', 'name' =>'`~`Armanetti\'s Liquor Store`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`938`~`', 'name' =>'`~`Jay\'s Food Pantry`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`939`~`', 'name' =>'`~`Armanetti Wine & Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`940`~`', 'name' =>'`~`Shorewood Wine & Spirits`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`941`~`', 'name' =>'`~`Woodstock Bev Corp`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`942`~`', 'name' =>'`~`D\'Agostinos`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`943`~`', 'name' =>'`~`Extra Value Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`944`~`', 'name' =>'`~`Waldbaums`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`945`~`', 'name' =>'`~`Tosa Wine And Spirits`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`946`~`', 'name' =>'`~`AJs One Stop`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`947`~`', 'name' =>'`~`Choice Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`948`~`', 'name' =>'`~`Cornerstar Wine Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`949`~`', 'name' =>'`~`D&H Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`950`~`', 'name' =>'`~`Express Liquor LLC`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`951`~`', 'name' =>'`~`Family Food`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`952`~`', 'name' =>'`~`Good Times Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`953`~`', 'name' =>'`~`Maruti Foods & Liq.`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`954`~`', 'name' =>'`~`Liquor Island`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`955`~`', 'name' =>'`~`Mainstreet`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`956`~`', 'name' =>'`~`Monument Cork\'n Bottle Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`957`~`', 'name' =>'`~`Route 52 Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`958`~`', 'name' =>'`~`Mountain Liquors`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`959`~`', 'name' =>'`~`A&L Wine Castle`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`960`~`', 'name' =>'`~`Otis & Lee Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`961`~`', 'name' =>'`~`Mos Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`962`~`', 'name' =>'`~`Big Ten Party Stores`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`963`~`', 'name' =>'`~`A&D Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`964`~`', 'name' =>'`~`Hot Spot Food & Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`965`~`', 'name' =>'`~`Route 6 Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`966`~`', 'name' =>'`~`Kmart`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`967`~`', 'name' =>'`~`Mr. A\'s Galleria Liquor & Wine`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`968`~`', 'name' =>'`~`Super Fine Wine & Liq`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`969`~`', 'name' =>'`~`Wine & Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`970`~`', 'name' =>'`~`Spartan Stores`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`971`~`', 'name' =>'`~`Market of Choice`~`', 'state' =>'`~`OR`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`972`~`', 'name' =>'`~`Sunrise Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`973`~`', 'name' =>'`~`Wine Dock Liquor & Deli`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`974`~`', 'name' =>'`~`Cigarette City`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`976`~`', 'name' =>'`~`Off the Wagon`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`977`~`', 'name' =>'`~`Red Wagon Shoppe`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`978`~`', 'name' =>'`~`Cardinal Liquor Barn`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`979`~`', 'name' =>'`~`Village Liquor Mart`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`980`~`', 'name' =>'`~`Stadium Market`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`981`~`', 'name' =>'`~`State Street Sentry`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`982`~`', 'name' =>'`~`S/R of West Chester`~`', 'state' =>'`~`PA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`983`~`', 'name' =>'`~`Sunrise Food & Liquor`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`984`~`', 'name' =>'`~`Sphinx Date Co.`~`', 'state' =>'`~`AZ`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`985`~`', 'name' =>'`~`ML Spirits`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`986`~`', 'name' =>'`~`Hocksmas Mini Mart`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`987`~`', 'name' =>'`~`Shore Liquor Inc.`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`988`~`', 'name' =>'`~`Braidwood Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`989`~`', 'name' =>'`~`Ghafari Trading`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`990`~`', 'name' =>'`~`Discount Drinks, Etc`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`991`~`', 'name' =>'`~`Grand Slam Liquors`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`992`~`', 'name' =>'`~`Tim\'s Wine Market`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`993`~`', 'name' =>'`~`Felpausch Food Center`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`994`~`', 'name' =>'`~`V.G\'s`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`995`~`', 'name' =>'`~`International House of`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`996`~`', 'name' =>'`~`Tunies`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`997`~`', 'name' =>'`~`Athens Liquor`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`998`~`', 'name' =>'`~`Majestic Market`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`999`~`', 'name' =>'`~`The Wine Garden`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1000`~`', 'name' =>'`~`Smittys Specialty Beverage`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1001`~`', 'name' =>'`~`Sunoco`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1002`~`', 'name' =>'`~`Orion Food Stop`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1003`~`', 'name' =>'`~`Safeway Digital`~`', 'state' =>'`~~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1004`~`', 'name' =>'`~`Berkley Fine Wine & Liquors`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1005`~`', 'name' =>'`~`Michael\'s Wine Shoppe`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1006`~`', 'name' =>'`~`Armanetti\'s`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1007`~`', 'name' =>'`~`Kinze Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1008`~`', 'name' =>'`~`Martha\'s Vineyard`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1009`~`', 'name' =>'`~`Family Fare`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1010`~`', 'name' =>'`~`Felpausch Food Ctr.`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1011`~`', 'name' =>'`~`D&W Food Ctr`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1012`~`', 'name' =>'`~`Bill\'s Food Ctr`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1013`~`', 'name' =>'`~`Save More Foods`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1014`~`', 'name' =>'`~`BP Food & Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1015`~`', 'name' =>'`~`Qwikx One Convenience Store`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1016`~`', 'name' =>'`~`Vintage Village`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1017`~`', 'name' =>'`~`Manester Group`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1018`~`', 'name' =>'`~`BS Beverage House`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1019`~`', 'name' =>'`~`Orchard Market Place`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1020`~`', 'name' =>'`~`Rayan\'s Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1021`~`', 'name' =>'`~`The Food Basket`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1022`~`', 'name' =>'`~`Gold Eagle Discount Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1023`~`', 'name' =>'`~`Badger Spirits`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1024`~`', 'name' =>'`~`Royal Liquor 2`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1025`~`', 'name' =>'`~`Atty\'s Parti Expo`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1026`~`', 'name' =>'`~`Royal Liquor`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1027`~`', 'name' =>'`~`Northside Liquor`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1028`~`', 'name' =>'`~`Marketplace FD Menomonie`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1029`~`', 'name' =>'`~`Dierbergs Florissant`~`', 'state' =>'`~`MO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1030`~`', 'name' =>'`~`Town Center Liquor`~`', 'state' =>'`~`CO`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1031`~`', 'name' =>'`~`Warren Prescriptions`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1032`~`', 'name' =>'`~`Champions Party Store`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1033`~`', 'name' =>'`~`Paul\'s Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1034`~`', 'name' =>'`~`Canopy Bottle:  Gourmet Shoppe`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1035`~`', 'name' =>'`~`Sprinkle Wine & Spirits`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1036`~`', 'name' =>'`~`Cardinal Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1037`~`', 'name' =>'`~`Dick\'s Hometown Liquor`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1038`~`', 'name' =>'`~`Spring Valley Liquor Store`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1039`~`', 'name' =>'`~`Busch\'s West Bloomfield`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1040`~`', 'name' =>'`~`D&W Food Center`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1041`~`', 'name' =>'`~`V.G\'s`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1042`~`', 'name' =>'`~`Toms Food Mkt`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1043`~`', 'name' =>'`~`Martin\'s Super Mkt`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1044`~`', 'name' =>'`~`Mullaney\'s Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1045`~`', 'name' =>'`~`Monee Liquor Depot`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1046`~`', 'name' =>'`~`Livonia Liq & Fine Wine`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1047`~`', 'name' =>'`~`Dave\'s Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1048`~`', 'name' =>'`~`Kroger/Memphis`~`', 'state' =>'`~`TN`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1049`~`', 'name' =>'`~`Vallerga\'s Mkt`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1050`~`', 'name' =>'`~`Fircrest Mkt`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1051`~`', 'name' =>'`~`Glen Ellen Village Mkt`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1052`~`', 'name' =>'`~`Yorkshire Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1053`~`', 'name' =>'`~`Pete\'s Wine & Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1055`~`', 'name' =>'`~`Stadium Wine & Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1056`~`', 'name' =>'`~`Four Seasons Liquors ENT`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1057`~`', 'name' =>'`~`Bee Bee\'s Liquor`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1058`~`', 'name' =>'`~`Value Center `~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1059`~`', 'name' =>'`~`Liquor Resort`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1060`~`', 'name' =>'`~`Tobacco & Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1061`~`', 'name' =>'`~`A & C Market`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1062`~`', 'name' =>'`~`Hammar\'s East Side Liq`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1063`~`', 'name' =>'`~`George\'s Liq & Wine Shop`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1064`~`', 'name' =>'`~`Onestop Tobacco & Liq`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1066`~`', 'name' =>'`~`E&B Food and Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1067`~`', 'name' =>'`~`Round Lake Liq`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1068`~`', 'name' =>'`~`A&P Thownwood`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1069`~`', 'name' =>'`~`Bottles N Stuff`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1070`~`', 'name' =>'`~`New Lenox Food & Liq`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1071`~`', 'name' =>'`~`Mega-Bev Oshtemo`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1072`~`', 'name' =>'`~`Mundelein Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1073`~`', 'name' =>'`~`Greenbrook Plaza Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1074`~`', 'name' =>'`~`DiCarlo Fine Wines`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1075`~`', 'name' =>'`~`Artisian Wine and Spirits`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1076`~`', 'name' =>'`~`Kwik Stops`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1077`~`', 'name' =>'`~`Neil\'s Liquor`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1078`~`', 'name' =>'`~`R&B Food & Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1079`~`', 'name' =>'`~`Wilson Market Ince`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1080`~`', 'name' =>'`~`Park N Shop Food & Liq`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1081`~`', 'name' =>'`~`Harvest/Boston Food Co`~`', 'state' =>'`~`MA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1082`~`', 'name' =>'`~`Pick n Save Ripon`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1083`~`', 'name' =>'`~`Costless Food`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1084`~`', 'name' =>'`~`Star-7 Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1085`~`', 'name' =>'`~`BB\'s Liquor & Fine Wine`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1086`~`', 'name' =>'`~`Nautical Liquor`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1087`~`', 'name' =>'`~`Route 30 Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1088`~`', 'name' =>'`~`Northern Lakes IGA`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1089`~`', 'name' =>'`~`Milk & More Inc.`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1090`~`', 'name' =>'`~`Oxford Beverage`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1091`~`', 'name' =>'`~`Downtown Produce`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1092`~`', 'name' =>'`~`Liquor Zone`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1093`~`', 'name' =>'`~`Lith Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1094`~`', 'name' =>'`~`Ken Emporium Liq.`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1095`~`', 'name' =>'`~`Lake Villa Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1096`~`', 'name' =>'`~`Stang Kelly Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1097`~`', 'name' =>'`~`Koch\'s Food & Liquor`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1098`~`', 'name' =>'`~`Dino\'s Cardinal Liquors`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1099`~`', 'name' =>'`~`Bilo`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1100`~`', 'name' =>'`~`Haggen`~`', 'state' =>'`~`WA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1101`~`', 'name' =>'`~`Bodega Latina Corp`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1102`~`', 'name' =>'`~`County Fair Market`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1103`~`', 'name' =>'`~`Niskayuna`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1104`~`', 'name' =>'`~`Island Time Spirits`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1105`~`', 'name' =>'`~`Plano Liquor & Wine`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1106`~`', 'name' =>'`~`Star Liquors IV`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1107`~`', 'name' =>'`~`AJ\'s Fine Wine & Liquors`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1108`~`', 'name' =>'`~`Tropicana Russell`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1109`~`', 'name' =>'`~`Kroger/Atlanta`~`', 'state' =>'`~`GA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1110`~`', 'name' =>'`~`Malloys Finest Wine & Spirits`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1111`~`', 'name' =>'`~`Conant-Caniff Market`~`', 'state' =>'`~`MI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1112`~`', 'name' =>'`~`Marina Food #2`~`', 'state' =>'`~`CA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1113`~`', 'name' =>'`~`Midtown Wine & Spirits`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1114`~`', 'name' =>'`~`Pathmark`~`', 'state' =>'`~`NY`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1115`~`', 'name' =>'`~`Donalan\'s supermarket`~`', 'state' =>'`~`MA`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1116`~`', 'name' =>'`~`Pete\'s Fresh Market`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1117`~`', 'name' =>'`~`Eveleth Country Foods`~`', 'state' =>'`~`MN`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1118`~`', 'name' =>'`~`Country Market 26`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1119`~`', 'name' =>'`~`Kingdom Liquor & Wine`~`', 'state' =>'`~`FL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1120`~`', 'name' =>'`~`Home Run Liquor & Food`~`', 'state' =>'`~`IL`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1121`~`', 'name' =>'`~`Arbee\'s Liquore`~`', 'state' =>'`~`WI`~`', 'is_active' =>'`~`1`~`']);`
+`Retailer::create(['id' => '`~`1122`~`', 'name' =>'`~`PJ\'s Discount Liquor`~`', 'state' =>'`~`NV`~`', 'is_active' =>'`~`1`~`']);`
